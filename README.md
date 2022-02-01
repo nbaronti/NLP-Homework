@@ -26,19 +26,17 @@
 
 **Question 1**: Which coin had the highest mean positive score?
 
-    - **Answer**: Ethereum had the highest mean positive score of 0.067
+- **Answer**: Ethereum had the highest mean positive score of 0.067
 
 **Question 2**: Which coin had the highest compound score?
 
-    - **Answer**: Ethereum had the highest mean compound score of 0.23 and highest max compound score of .76
+- **Answer**: Ethereum had the highest mean compound score of 0.23 and highest max compound score of .76
 
 **Question 3**: Which coin had the highest positive score?
 
-    - **Answer**: Ethereum had the highest max positive score of 0.217
+- **Answer**: Ethereum had the highest max positive score of 0.217
 
 ## Section 2
-
-1. **N-Grams**
 
 **BTC Bigram Data**
 ---
@@ -47,8 +45,6 @@
 **ETH Bigram Data**
 ---
 ![ETH Bigram Data](Images/eth_ngrams.jpg)
-
-2. **Word Clouds**
 
 **BTC Word Cloud**
 ---
