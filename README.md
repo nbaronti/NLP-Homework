@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Section 1 (Sentiment Analysis](#Section-1)
+1. [Section 1 (Sentiment Analysis)](#Section-1)
 2. [Section 2 (Natural Language Processing)](#Section-2)
 3. [Section 3 (Named Entity Recognition)](#Section-3)
 
